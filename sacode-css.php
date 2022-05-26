@@ -2,7 +2,7 @@
 	// variabeles
 	$title = "SaCode";
 	$tagLine = "#LearnToCode";
-	$websie = "https://sacode.web.id";
+	$website = "https://sacode.web.id";
 	$instagram = "https://instagram.com/sacode.official";
 	$developer = "Janzen Faidiban";
 ?>
